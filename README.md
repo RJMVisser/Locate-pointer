@@ -1,5 +1,7 @@
 # Locate Pointer
 
+![](preview.png)
+
 ## Build locate-pointer with:
 ```
 gcc `pkg-config --cflags x11 cairo` locate-pointer.c -o locate-pointer `pkg-config --libs x11 cairo` -lm
