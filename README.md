@@ -8,4 +8,4 @@ gcc `pkg-config --cflags x11 cairo` locate-pointer.c -o locate-pointer `pkg-conf
 ## Setup
 Copy locate-pointer and locate-pointer-starter.sh to /usr/local/bin/
 
-## Enable on middle click
+## Enable locate-pointer-starter.sh on middle click
